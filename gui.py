@@ -24,13 +24,7 @@ set_window_min_size(500,600)
 set_window_max_size(MAX_WIDTH,MAX_HEIGHT)
 
 is_file_button_clicked = False #initialize
-path_string = "HELLO"
-def file_path():
-    global MAX_HEIGHT, MAX_WIDTH, CDRIVE, AUDIO_LIST, path_string
-    
-
-    if is_key_pressed(KeyboardKey.KEY_ENTER):
-        return 0;
+path_string = "HELLO" # testing stuff, characters are appended to this string (empty at beginning) and path is checked for its existent... REQUIRES A LOT OF CODE (UNDER DEVELOPMENT)
 
 
 clear_window_state(128)
@@ -71,5 +65,6 @@ with open("res/config.csv","w") as win:
     w.writerow([S_WIDTH,S_HEIGHT])
 
 close_window()
+
 
 sys.exit(0)
