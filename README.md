@@ -7,7 +7,9 @@ A simple, customizable **soundboard application** built entirely in **Python usi
 > The **UI kit is nearly complete** and serves as the foundation for the final application.
 
 ---
-
+⚠️ NOTE : THERE ARE GONNA BE TWO VERSION OF THIS PYTHON APP, one for the terminal
+other for the GUI, however both may share the same functionality. For prototyping purposes Terminal version will be updated more frequently than GUI (GUI COMPONENTS TAKE MORE TIME TO BE RESOLVED AND DESIGNED)
+---
 ## ✨ Features
 
 - 🎨 Custom UI kit built with raylib
