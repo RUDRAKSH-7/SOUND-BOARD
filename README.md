@@ -7,18 +7,9 @@ A simple, customizable **soundboard application** built entirely in **Python usi
 > The **UI kit is nearly complete** and serves as the foundation for the final application.
 
 ---
-⚠️ NOTE : THERE ARE GONNA BE TWO VERSION OF THIS PYTHON APP, one for the terminal
-other for the GUI, however both may share the same functionality. For prototyping purposes Terminal version will be updated more frequently than GUI (GUI COMPONENTS TAKE MORE TIME TO BE RESOLVED AND DESIGNED)
----
-## ✨ Features
-
-- 🎨 Custom UI kit built with raylib
-- 🐍 Written 100% in Python
-- 🔊 Designed for soundboard-style audio playback
-- 🧩 Modular UI components (buttons, panels, layouts)
-- 🚧 Actively under development
-
----
+> ⚠️ NOTE : 
+> THERE ARE GONNA BE TWO VERSION OF THIS PYTHON APP, one for the terminal
+> other for the GUI, however both may share the same functionality. For prototyping purposes Terminal version will be updated more frequently than GUI (GUI COMPONENTS TAKE MORE TIME TO BE RESOLVED AND DESIGNED)
 
 ## 🖼️ UI Kit Status
 
@@ -38,27 +29,6 @@ This UI kit will be reused for the full soundboard experience once audio logic i
 - **raylib** (via Python bindings)
 
 ---
-
-## 🚀 Planned Features
-
-- Load and manage multiple sound files
-- Custom keybinds
-- Volume controls per sound
-- UI theming options
-- Save/load configurations
-
----
-
-## 📂 Project Status
-
-- [x] UI Kit (nearly complete)
-- [ ] Sound playback system
-- [ ] Sound management
-- [ ] Configuration system
-- [ ] Final polish & optimization
-
----
-
 ## 📌 Notes
 
 This project is currently experimental and may change significantly as development continues.
